@@ -22,7 +22,7 @@ Funciona asi:
 button.textContent accede al contenido de texto dentro del botón.
 Se usa para saber qué número u operación fue presionada.
 
-4.- ¿Qué hace y cómo funciona buttons.forEach((button) => { ... }?
+4.- ¿Qué hace y cómo funciona buttons.forEach((button) => { ... }?\n
 Este código recorre todos los botones de la calculadora y ejecuta una función en cada uno.
 Funciona asi: 
 buttons.forEach(...) itera sobre cada botón en la lista de botones.
